@@ -1,0 +1,26 @@
+
+.small {
+    font-size: 0.5rem;
+}
+.normal {
+    font-size: 1rem;
+}
+.h1 {
+    font-size: 2rem;
+}
+.h2 {
+    font-size: 1.5rem;
+}
+.h3 {
+    font-size: 1.25rem;
+}
+
+.text-primary {
+    color: #3d5a80;
+}
+.text-secondary {
+    color: #98c1d9;
+}
+.text-tertiary {
+    color: #ee6c4d;
+}
